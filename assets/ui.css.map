@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "ui.css",
+	"sourceRoot": "/home/vishvarodrigo/Experiments/Rancher/forked/ui-cp/app/styles",
+	"sources": [
+		"../../out-0985-broccoli_merge_trees_full_application/app/styles/app.scss"
+	],
+	"sourcesContent": [
+		"// Ember requires this, but see app-light/app-dark\n"
+	],
+	"names": [],
+	"mappings": ""
+}
